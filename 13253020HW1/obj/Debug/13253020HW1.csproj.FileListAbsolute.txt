@@ -1,0 +1,6 @@
+c:\users\hüseyin\documents\visual studio 2015\Projects\13253020HW1\13253020HW1\bin\Debug\13253020HW1.exe.config
+c:\users\hüseyin\documents\visual studio 2015\Projects\13253020HW1\13253020HW1\bin\Debug\13253020HW1.exe
+c:\users\hüseyin\documents\visual studio 2015\Projects\13253020HW1\13253020HW1\bin\Debug\13253020HW1.pdb
+c:\users\hüseyin\documents\visual studio 2015\Projects\13253020HW1\13253020HW1\obj\Debug\13253020HW1.csprojResolveAssemblyReference.cache
+c:\users\hüseyin\documents\visual studio 2015\Projects\13253020HW1\13253020HW1\obj\Debug\13253020HW1.exe
+c:\users\hüseyin\documents\visual studio 2015\Projects\13253020HW1\13253020HW1\obj\Debug\13253020HW1.pdb
